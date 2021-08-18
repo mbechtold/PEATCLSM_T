@@ -45,7 +45,8 @@
 ! reichle, 24 Nov 2015 - changed CSOIL_2 back to pre-MERRA value (70,000 J/K)
 !                      - use engineering fix for all veg types (dampen oscillations in off-line mode)
 !                      - "zbar" bug fix
-
+! bechtold, 01 Apr 2019- Implementation of PEATCLSM
+! apers, 01 Mar 2021- Implementation of PEATCLSM_T
 
       MODULE CATCHMENT_MODEL
 
